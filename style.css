@@ -383,7 +383,7 @@ nav .fa-solid{
 @media only screen and (max-width: 600px){
 
        #header{
-        background-image:url(Images/aniket.png);
+        background-image:url(aniket.png);
        }
        .header-text{
         margin-top: 100%;
